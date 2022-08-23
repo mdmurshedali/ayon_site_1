@@ -1,0 +1,13 @@
+*{
+    font-family: 'Barlow', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #314140;
+}
+.Title_border_bottom {
+    border-bottom: 2px solid #505C5C;
+}
+.nav-bg-color{
+    background-color: white !important; 
+}
+
